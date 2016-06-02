@@ -30,16 +30,16 @@ ________________________________________
 
 ### 技能
 #####  IT技能：
-* 1.熟悉Linux及Apache、Nginx、tomcat、MySQL、PHP、rundeck等日常应用的安装、配置、管理和优化
-* 2.了解Internet基本协议(如TCP/IP、HTTP、SMTP、FTP等)及相关应用。
-* 3.熟悉Linux安全体系、Iptables、网络安全、防火墙、存储、高级RAID、LVM、KVM
-* 4.熟悉Shell、awk、python、c、c++等语言，并能进行相关程序的编写
-* 5.熟悉Linux网络服务（/DNS/Email/Ftp/Squid/Samba/Nginx/Lighttpd/Apache）的配置和优化。
-* 6.熟悉各种监控软件的配置，例如Nagios/Zabbix/Smokping/Cacti等
-* 7.熟悉mysql数据库各种sql语句的使用。了解db还原技术、熟悉mysql主从复制和读写分离技术。了解redis、mongo等其他非关系型数据库
-* 8.了解 CDN实现原理
-* 9.了解saltstack、puppet、cheft批量管理工具、熟悉capistrano 部署和应用
-* 10.熟悉Django框架、熟练使用fabric 
+* 熟练使用Shell、awk、nodejs，了解python语言
+* 熟悉mysql、mongodb、redis数据库。了解db还原技术、熟悉mysql主从复制和读写分离技术以及mongo复制集使用、对hadoop大数据有一定了解
+* 熟悉Linux及Apache、Nginx、tomcat、MySQL、mongodb、redis、PHP、rundeck、hadoop等应用的安装、配置、管理和优化
+* 了解Internet基本协议(如TCP/IP、HTTP、SMTP、FTP等)及相关应用。
+* 熟悉Linux安全体系、Iptables、网络安全、防火墙、存储、高级RAID、LVM、KVM
+* 熟悉Linux网络服务（/DNS/Email/Ftp/Squid/Samba/Nginx/Lighttpd/Apache）的配置和优化。
+* 熟悉各种监控软件的配置，例如Nagios/Zabbix/Smokping/Cacti等
+* 了解CDN实现原理
+* 了解saltstack、puppet、cheft批量管理工具、熟悉capistrano 部署和应用
+* 熟悉Django、express框架、熟练使用fabric 
 
 #####  语言能力:
 * 英语四级、良好的英文文档阅读能力
@@ -81,12 +81,12 @@ ________________________________________
 ```sh
 NBA梦之队游戏业务运维 	2015.10 - 至今
 项目职务： 	服务器工程师 
-项目描述： 	项目分为、 页游也分国内海外而且覆盖各大联运商平台、其他也包含腾讯平台
+项目描述： 	项目为手游 分简体、繁体2个语种
 项目职责： 	
 1、业务上线、更新 与联运商技术对接游戏
 2、机器初始化、游戏服部署、合服、迁移等日常业务
 3、运维自动化平台搭建、日常工作自动化脚本编写、覆盖日常业务95%
-4、业务访问质量（日志监控）、存活状态监控（zabbix监控） 
+4、服务器存活状态监控（zabbix监控） 
 ```
 ```sh
 NBA梦之队日志分析工具开发、运维 	2015.10 - 至今
