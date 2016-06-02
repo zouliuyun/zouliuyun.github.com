@@ -32,7 +32,7 @@ ________________________________________
 #####  IT技能：
 * 熟练使用Shell、awk、nodejs，了解python语言
 * 熟悉mysql、mongodb、redis数据库。了解db还原技术、熟悉mysql主从复制和读写分离技术以及mongo复制集使用、对hadoop大数据有一定了解
-* 熟悉Linux及Apache、Nginx、tomcat、MySQL、mongodb、redis、PHP、rundeck、hadoop等应用的安装、配置、管理和优化
+* 熟悉Linux及Apache、Nginx、tomcat、MySQL、mongodb、redis、PHP、rundeck、hadoop、git等应用的安装、配置、管理和使用
 * 了解Internet基本协议(如TCP/IP、HTTP、SMTP、FTP等)及相关应用。
 * 熟悉Linux安全体系、Iptables、网络安全、防火墙、存储、高级RAID、LVM、KVM
 * 熟悉Linux网络服务（/DNS/Email/Ftp/Squid/Samba/Nginx/Lighttpd/Apache）的配置和优化。
